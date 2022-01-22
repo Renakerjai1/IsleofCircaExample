@@ -1,0 +1,16 @@
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\IsleofCirca2.exe
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\IsleofCirca2.deps.json
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\IsleofCirca2.runtimeconfig.json
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\IsleofCirca2.runtimeconfig.dev.json
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\IsleofCirca2.dll
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\ref\IsleofCirca2.dll
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\bin\Debug\net5.0\IsleofCirca2.pdb
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.csprojAssemblyReference.cache
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.AssemblyInfoInputs.cache
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.AssemblyInfo.cs
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.dll
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\ref\IsleofCirca2.dll
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.pdb
+C:\Users\Ian\RiderProjects\IsleofCirca2\IsleofCirca2\obj\Debug\net5.0\IsleofCirca2.genruntimeconfig.cache
